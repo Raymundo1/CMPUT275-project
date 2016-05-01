@@ -1,12 +1,3 @@
-'''
-  * Last name : Chen      First name: Xinlei
-  * Section : LBL B2
-  * Partner : Hanwen Yang
-  * Project : 2048
-  * Note    : please use python(not python3) to run the game.
-  			  If you want to play 6*6 mode, please use proper Screen Display
-'''
-
 import wx
 import random
 import copy
